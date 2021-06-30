@@ -3,22 +3,32 @@
     {
       "title": "test",
       "description": "testing",
-      "id": 1
+      "id": 1,
+      "userId": "12345"
     },
     {
       "title": "Other stream",
       "description": "Another streaming test",
-      "id": 2
+      "id": 2,
+      "userId": "12345"
     },
     {
       "title": "Test Stream",
       "description": "Testing stream",
-      "id": 3
+      "id": 3,
+      "userId": "12345"
     },
     {
       "title": "Testing",
       "description": "Test stream",
-      "id": 4
+      "id": 4,
+      "userId": "12345"
+    },
+    {
+      "title": "Stream to test ID",
+      "description": "Testing ID assignment",
+      "userId": "103944504000947140489",
+      "id": 5
     }
   ]
 }
