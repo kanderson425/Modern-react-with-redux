@@ -9,6 +9,16 @@
       "title": "Other stream",
       "description": "Another streaming test",
       "id": 2
+    },
+    {
+      "title": "Test Stream",
+      "description": "Testing stream",
+      "id": 3
+    },
+    {
+      "title": "Testing",
+      "description": "Test stream",
+      "id": 4
     }
   ]
 }
