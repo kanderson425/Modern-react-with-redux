@@ -1,22 +1,10 @@
 {
   "streams": [
     {
-      "title": "test",
-      "description": "testing",
-      "id": 1,
-      "userId": "12345"
-    },
-    {
-      "title": "Other stream",
-      "description": "Another streaming test",
-      "id": 2,
-      "userId": "12345"
-    },
-    {
       "title": "Test Stream",
       "description": "Testing stream",
       "id": 3,
-      "userId": "12345"
+      "userId": "103944504000947140489"
     },
     {
       "title": "Testing",
@@ -33,12 +21,14 @@
     {
       "title": "Testing the plain router",
       "description": "Testing history and plain router kjhgkjhkgjhg",
-      "id": 6
+      "id": 6,
+      "userId": "103944504000947140489"
     },
     {
       "title": "Testing the refactorerd CreateStream Process",
       "description": "Testing asdfasdfasdf",
-      "id": 7
+      "id": 7,
+      "userId": "103944504000947140489"
     }
   ]
 }
